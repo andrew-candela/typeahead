@@ -1,7 +1,9 @@
 
 # Typeahead
 
-![](demo.mov "Demo")
+
+[Demo](https://github.com/andrew-candela/typeahead/assets/20376875/3ba66172-19c4-41bc-8b5b-744c23f26f58)
+
 
 You know when you type something into Google and google
 corects your spelling mistake? How hard would it be to
