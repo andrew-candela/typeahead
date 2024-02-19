@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "typeahead"
+version = "0.1.0"
+description = ""
+authors = ["acandela260 <20376875+andrew-candela@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{ include = "src" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+prompt-toolkit = "^3.0.43"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
